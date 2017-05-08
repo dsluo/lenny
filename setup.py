@@ -3,7 +3,7 @@ from setuptools import setup
 setup(name='lenny',
       version='0.1',
       description='Generate random lenny faces.',
-      url='',
+      url='https://github.com/davidsluo/lenny',
       author='davidsluo',
       author_email='email@davidsluo.me',
       license='MIT',
