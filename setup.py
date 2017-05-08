@@ -12,6 +12,6 @@ setup(name='lenny',
       author_email='email@davidsluo.me',
       license='MIT',
       packages=['lenny'],
-      zip_safe=False,
+      zip_safe=True,
       keywords=['lenny', 'face']
       )
