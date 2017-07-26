@@ -4,7 +4,7 @@ with open('README.rst', 'r') as f:
     readme = f.read()
 
 setup(name='lenny',
-      version='0.1.1',
+      version='0.1.2',
       description='Generate random lenny faces.',
       long_description=readme,
       url='https://github.com/davidsluo/lenny',
