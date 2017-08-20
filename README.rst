@@ -7,7 +7,7 @@ Lenny
 
 Generates random `lenny faces`_.
 
-Symbols pulled from `http://textsmili.es`__ by `@polyfloyd`_.
+Symbols pulled from `http://textsmili.es`__ by `@polyfloyd`_ and from `https://textfac.es/`.
 
 Installation
 ------------
