@@ -115,6 +115,17 @@ ears = [
     '|'
 ]
 
+lenny_face = '( ͡° ͜ʖ ͡°)'
+sunglasses = '(⌐■_■)'
+shrug = '¯\_ツ_/¯'
+disapproval = 'ಠ_ಠ'
+gib = '༼ つ ◕_◕ ༽つ'
+table_flip1 = '(ノಠ益ಠ)ノ彡┻━┻'
+table_flip2 = '(╯°□°）╯︵ ┻━┻'
+table_unflip1 = '┬──┬ ノ( ゜-゜ノ)'
+table_unflip2 = '┬─┬ノ( º _ ºノ)'
+flower = '(◕‿◕✿)'
+
 
 def lenny():
     mouth = random.choice(mouths)
